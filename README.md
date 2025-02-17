@@ -74,7 +74,7 @@ A modular AI assistant integrating **AI/ML**, **Neural Network**, **Computer Vis
    git clone https://github.com/avarshvir/SPA-AI.git  
    cd SPA-AI  
 
-
+<!---
 # SPA AI 🤖  
 **Your Hyper-Intelligent Personal Assistant | Side Project by Arshvir**  
 
@@ -85,7 +85,7 @@ A modular AI assistant integrating **AI/ML**, **Neural Network**, **Computer Vis
 
 *A Next-Gen AI Platform Combining Multimodal Intelligence with Practical Automation*
 
-![SPA AI Demo](docs/demo.gif) <!-- Add your demo GIF later -->
+![SPA AI Demo](docs/demo.gif) <!-- Add your demo GIF later -
 
 ---
 
@@ -127,4 +127,4 @@ A modular AI assistant integrating **AI/ML**, **Neural Network**, **Computer Vis
 AI Engine: PyTorch Lightning ⚡  
 Vision: OpenCV + MediaPipe 👁️  
 NLP: spaCy + HuggingFace 🤗  
-AutoML: TPOT + AutoKeras 🤖  
+AutoML: TPOT + AutoKeras 🤖  ----->
